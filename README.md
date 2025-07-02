@@ -66,13 +66,13 @@ pycharm-community
 ```sh
 To boost your development experience, consider installing the following plugins:
 
-**.env files support –** Readable environment variable files.
+.env files support – Readable environment variable files.
 
-**Atom Material Icons –** Enhanced file explorer icons.
+Atom Material Icons – Enhanced file explorer icons.
 
-**Git ToolBox –** Advanced Git features.
+Git ToolBox – Advanced Git features.
 
-**Highlight Bracket Pair –** Easy navigation through nested code.
+Highlight Bracket Pair – Easy navigation through nested code.
 
 Material Theme UI – Beautiful themes for PyCharm.
 
