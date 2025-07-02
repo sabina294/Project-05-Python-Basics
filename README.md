@@ -37,10 +37,8 @@ sudo update-alternatives --config python3
 #### Verify
 ```sh
 python3 --version
-
+Output: Python 3.13.5
 ```
-# Output: Python 3.13.5
-
 
 ### 2. Install PyCharm
 
