@@ -72,7 +72,7 @@ pycharm-community
 
 #### 7. Some Plugins Add:
 ```sh
-** Go to pycharm setting>Plugins
+# Go to pycharm setting>Plugins
 .env files support
 Atom Material Icon
 Git Tool Box
