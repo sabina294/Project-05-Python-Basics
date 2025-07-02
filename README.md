@@ -58,8 +58,14 @@ sudo apt update
 sudo apt install snapd
 
 ```
+#### 5. Install PyCharm (choose one):
 
-#### Launch PyCharm
+```sh
+sudo snap install pycharm-community --classic
+
+```
+
+#### 6. Launch PyCharm
 ```sh
 pycharm-community
 ```
