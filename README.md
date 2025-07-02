@@ -43,7 +43,7 @@ Output: Python 3.13.5
 ### 2. Install PyCharm
 
 PyCharm is a powerful Integrated Development Environment (IDE) specifically designed for programming in Python. Developed by JetBrains, PyCharm provides a complete toolkit for writing, testing, and debugging Python code efficiently and professionally.
-The current version I am using is PyCharm `2025.1`. To install or update to the latest version, open your preferred terminal and run the following commands:
+The current version I am using is PyCharm `2025.1.2`. To install or update to the latest version, open your preferred terminal and run the following commands:
 
 ```sh
 sudo apt update
