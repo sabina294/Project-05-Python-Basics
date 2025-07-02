@@ -69,3 +69,20 @@ sudo snap install pycharm-community --classic
 ```sh
 pycharm-community
 ```
+
+#### 7. Some Plugins Add:
+```sh
+** Go to pycharm setting>Plugins
+.env files support
+Atom Material Icon
+Git Tool Box
+Highlight Bracket Pair
+Material Theme
+Lines Sorter
+Power Shell
+
+
+```
+
+
+
