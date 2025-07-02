@@ -1,4 +1,4 @@
-#Python Setup
+# Python Setup
 
 ### 1. Install NodeJS
 Run the following commands to install Node.js on Ubuntu:
